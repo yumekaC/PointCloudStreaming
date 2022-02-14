@@ -31,7 +31,7 @@
 表1　条件
 
 | 条件 | voxel size | 初期バッファサイズ | 再生フレームレート(fps) | デモ動画リンク |
-| :--- | :---: | ---: | ---: |　:---: |
+| :---: | :---: | :---: | :---: |　:---: |
 | 1 | 0 | 29 | 5 |　[デモ動画](https://waseda.box.com/s/j1j5r2h9y4u20q8sp215was04gda9xdw) |
 | 2 | 0.003 | 65 | 10 | [デモ動画](https://waseda.box.com/s/y94tg5xyte84mzaf1dywkod5tw12j7pa) |
 | 3 | 0.005 | 79 | 15 | [デモ動画](https://waseda.box.com/s/07o83jqg69dkn6p9dhgd95twe4whz925) |
