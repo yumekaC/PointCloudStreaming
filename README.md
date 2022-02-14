@@ -21,22 +21,4 @@
 [デモ動画](https://waseda.app.box.com/file/918392776695)
 
 
-## 実験4.2.2
-・点群ダウンロード時の平均throughputに合わせて，ダウンロードする点群のvoxel sizeを変更する．(voxel sizeが小さいほどデータサイズは大きくなる)
-
-条件1:Wi-Fiアクセスポイントに近い場合(平均throughput:約75Mbps)/視点が止まっている状態/
-
-デモ動画:https://github.com/yumekaC/PointCloudStreaming/blob/main/demo/4_2_2_high_static.mp4
-
-条件2:Wi-Fiアクセスポイントに近い場合(平均throughput:約75Mbps)/視点が動いている状態/
-
-デモ動画:https://github.com/yumekaC/PointCloudStreaming/blob/main/demo/4_2_2_high_dynamic.mp4
-
-条件3:Wi-Fiアクセスポイントに遠い場合(平均throughput:約40Mbps)/視点が止まっている状態/
-
-デモ動画:https://github.com/yumekaC/PointCloudStreaming/blob/main/demo/4_2_2_low_static.mp4
-
-条件4:Wi-Fiアクセスポイントに遠い場合(平均throughput:約40Mbps)/視点が動いている状態/
-
-デモ動画:https://github.com/yumekaC/PointCloudStreaming/blob/main/demo/4_2_2_low_dynamic.mp4
 
