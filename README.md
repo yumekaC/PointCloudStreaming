@@ -10,15 +10,15 @@
 
 条件2:voxel size:0.003/initial buffer size:65/play frame rate:10fps/skip frame:3/
 
-デモ動画:https://github.com/yumekaC/PointCloudStreaming/blob/main/demo/4_2_1_0003.mp4
+[デモ動画](https://waseda.app.box.com/file/918391244594)
 
 条件3:voxel size:0.005/initial buffer size:79/play frame rate:15fps/skip frame:2/
 
-デモ動画:https://github.com/yumekaC/PointCloudStreaming/blob/main/demo/4_2_1_0005.mp4
+[デモ動画](https://waseda.app.box.com/file/918389052310)
 
 条件4:voxel size:0.01/initial buffer size:131/play frame rate:30fps/skip frame:1/
 
-デモ動画:https://github.com/yumekaC/PointCloudStreaming/blob/main/demo/4_2_1_001.mp4
+[デモ動画](https://waseda.app.box.com/file/918392776695)
 
 
 ## 実験4.2.2
