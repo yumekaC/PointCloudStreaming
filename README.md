@@ -4,7 +4,7 @@
 
 ・１フレームあたりの点群のダウンロードにかかる処理時間を考慮して，再生終了までバッファが枯渇しないように初期バッファサイズを決定する．
 
-条件1:voxel size:0/initial buffer size:29/play frame rate:5fps/skip frame:6/デモ動画:
+条件1:voxel size:0/initial buffer size:29/play frame rate:5fps/skip frame:6/デモ動画:https://github.com/yumekaC/PointCloudStreaming/blob/main/demo/4_2_1_0.mp4
 
 条件2:voxel size:0.003/initial buffer size:65/play frame rate:10fps/skip frame:3/デモ動画:
 
