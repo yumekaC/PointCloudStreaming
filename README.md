@@ -14,7 +14,7 @@
 | 3 | 0.005 | 79 | 15 | [条件3デモ動画](https://waseda.box.com/s/07o83jqg69dkn6p9dhgd95twe4whz925) |
 | 4 | 0.01 | 131 | 30 | [条件4デモ動画](https://waseda.box.com/s/8lx2g0xlujup4jwl3xk1y4qui5sl4bx0) |
 
-[比較動画]()
+[比較動画](https://waseda.box.com/s/p6n9tkek7unc1n8oreqxb2fkt35wyekr)
 
 ## 4.5節 ライブ配信評価実験　
 ※デモ動画撮影用に原稿とは異なるシーケンスの結果を示す（実験結果の傾向は、原稿と同様のものである）
@@ -28,7 +28,7 @@
 
 | 条件 | voxel size(m) | 初期バッファサイズ | 再生フレームレート(fps) | デモ動画リンク |
 | :---: | :---: | :---: | :---: | :---: |
-| 1 | 0.005 | 5 | 5 | [条件1デモ動画](https://waseda.box.com/s/j1j5r2h9y4u20q8sp215was04gda9xdw) |
-| 2 | 0.007 | 5 | 10 | [条件2デモ動画](https://waseda.box.com/s/y94tg5xyte84mzaf1dywkod5tw12j7pa) |
+| 1 | 0.005 | 5 | 5 | [条件1デモ動画](https://waseda.box.com/s/zswfm4pbiqxnl69mawh6qdwrnzmxrc6u) |
+| 2 | 0.007 | 5 | 10 | [条件2デモ動画](https://waseda.box.com/s/cgykdhppa0fxl7wuc9jkatx68q981b6k) |
 
-[比較動画]()
+[比較動画](https://waseda.box.com/s/jc6vvjr4w2vw7tzin1ca0s3h4lc8incy)
